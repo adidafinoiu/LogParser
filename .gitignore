@@ -1,0 +1,8 @@
+# Package Files #
+*.jar
+
+# IntelliJ project files
+.idea
+*.iml
+target
+
